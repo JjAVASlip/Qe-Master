@@ -1,0 +1,3 @@
+EMP-5188,Magpantay,Daizy,Daizy123,magpantay123,Math
+EMP-5639,Adlawan,Kurt,Kurt123,ADLAWAN,DSA
+EMP-5368,Faminia, Rachelle,magpantay123,MAGPANTAY,Discrete

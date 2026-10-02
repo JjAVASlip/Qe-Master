@@ -1,0 +1,5 @@
+Q1|mcq|1 + 1|C1:0|C2:2|C3:3|C4:4|ANS:2
+Q2|ID|2 + 2|ANS:4
+Q3|id|4 + 4|ANS:8
+Q4|id|1 + 5|ANS:6
+Q5|id|6 + 2|ANS:8
